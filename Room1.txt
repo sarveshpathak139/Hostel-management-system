@@ -1,0 +1,3 @@
+ID: 1
+Capacity: 1
+Price: 10000
